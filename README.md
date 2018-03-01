@@ -4,9 +4,9 @@ It's a script that analyzes all the messages in a given chat and visualizes the 
 
 ## Requirements:
 
-_1. Python3_
-_2. Matplotlib_
-_3. Numpy_
+_1. Python3_ 
+_2. Matplotlib_ 
+_3. Numpy_ 
 
 1. Download your chat as .txt ( For WhatsApp use Email Chat function )
 
