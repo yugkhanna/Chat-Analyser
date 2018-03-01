@@ -1,4 +1,4 @@
-# WhatsApp Message Analyzer
+# Chat Analyzer
 
 It's a script that analyzes all the messages in a given chat and visualizes the most active users, the most used words and the dates and times with the most activity.
 
