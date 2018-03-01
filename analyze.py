@@ -145,7 +145,7 @@ wordDictionary = getWordFrequency(messageList)
 if os.path.isfile("data.xlsx"):
     os.unlink("data.xlsx")
 
-#Add to excel sheet
+ #Add to excel sheet
 toXL(dateDictionary, 'Dates', 'Date', 'No. of Messages')
 toXL(personDictionary, 'People', 'Sender', 'No. of Messages')
 toXL(timeDictionary, 'Times', 'Time', 'No. of Messages')
