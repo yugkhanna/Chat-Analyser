@@ -1,8 +1,8 @@
-import matplotlib.pyplot as plt
 import numpy as np
+import matplotlib.pyplot as plt
 from operator import itemgetter
 
-#Set up the words as x and its count as y
+#Setting words equal to x and count as y
 def barGraph(dictionary, keyName, label, title, fileName):
     x = []
     y = []
